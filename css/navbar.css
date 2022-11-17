@@ -1,0 +1,51 @@
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: white;
+    }
+    header{
+        text-align: center; 
+        background-color: #1f2023; 
+        font-size: 15px; 
+        color: white; 
+        padding: 15px;
+    }
+    table{
+        border-color: #1f2023;
+    }
+    th{
+        background-color: #1f2023;
+        color: white;
+    }
+    footer{
+        text-align: center; 
+        background-color: #1f2023; 
+        font-size: 15px; 
+        color: white; 
+        padding: 15px;
+    }
+    h1{
+        margin: 0px;
+        padding: 0px;
+    }
+    h2{
+        margin: 0px;
+        padding: 0px;
+    }
+    p{
+        margin-top: 3px;
+    }
+    .fix-footer{
+        padding: 5px;
+        text-align: center;
+        color: white;
+        position: fixed;
+        left: 0px;
+        bottom: 0px;
+        height: 35px;
+        width: 100%;
+        background: #1f2023;
+    }
